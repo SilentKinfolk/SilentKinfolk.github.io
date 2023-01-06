@@ -1,1 +1,1 @@
-CellSiren is a Linux based CellBroadcast alerting tool
+CellSiren is a Linux based CellBroadcast alerting application
